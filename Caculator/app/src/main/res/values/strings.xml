@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">Caculator</string>
+    <string name="app_name">Calculator</string>
+    <string name="title_c">C</string>
+    <string name="title_zero">0</string>
+    <string name="title_one">1</string>
+    <string name="title_two">2</string>
+    <string name="title_three">3</string>
+    <string name="title_four">4</string>
+    <string name="title_five">5</string>
+    <string name="title_six">6</string>
+    <string name="title_seven">7</string>
+    <string name="title_eight">8</string>
+    <string name="title_nine">9</string>
+    <string name="title_mod">Mod</string>
+    <string name="title_multil">x</string>
+    <string name="title_device">÷</string>
+    <string name="title_plus">+</string>
+    <string name="title_sub">-</string>
+    <string name="title_dot">.</string>
+    <string name="title_dao_dau">+/_</string>
+    <string name="title_equal">=</string>
 </resources>
